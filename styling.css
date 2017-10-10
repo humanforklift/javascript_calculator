@@ -1,8 +1,7 @@
 html, body {
         height: 100%;
         font-family: 'Dosis', Tahoma;
-        /*background-color: rgba(198, 198, 198, 1);*/
-        /*overflow: hidden;*/
+        overflow: hidden;
 }
 
 body {
